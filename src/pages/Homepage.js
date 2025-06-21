@@ -85,6 +85,11 @@ const Homepage = () => {
           ))}
         </div>
       )}
+
+      <div>
+        <h2>使用說明:</h2>
+        <p>請務必將你要對的net_name欄位填寫成一樣格式: net_name 像這樣</p>
+      </div>
     </div>
   );
 };
